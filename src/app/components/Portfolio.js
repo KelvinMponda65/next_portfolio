@@ -71,7 +71,7 @@ const Portfolio = ({ isDarkMode, setIsDarkMode }) => {
 
   const statsData = [
     {
-      number: 20,
+      number: 30,
       label: "Happy Clients",
       sublabel: "Web & mobile solutions delivered",
       icon: "user-check",
@@ -83,13 +83,13 @@ const Portfolio = ({ isDarkMode, setIsDarkMode }) => {
       icon: "folder-open",
     },
     {
-      number: 2000,
+      number: 10000,
       label: "Hours of Experience",
       sublabel: "Coding, consulting & mentoring",
       icon: "headphones",
     },
     {
-      number: 8,
+      number: 10,
       label: "Collaborators",
       sublabel: "Developers, designers & mentors",
       icon: "users",
@@ -98,11 +98,13 @@ const Portfolio = ({ isDarkMode, setIsDarkMode }) => {
 
   const skillsData = [
     { name: "PYTHON", percentage: 100 },
-    { name: "WORDPRESS", percentage: 95 },
+    { name: "WORDPRESS", percentage: 100 },
+    { name: "DATA ANALYSIS", percentage: 100 },
     { name: "JAVASCRIPT", percentage: 95 },
+    { name: "SQL", percentage: 95 },
+    { name: "TYPESCRIPT", percentage: 95 },
     { name: "FLUTTER", percentage: 90 },
     { name: "JAVA", percentage: 85 },
-    { name: "TYPESCRIPT", percentage: 80 },
   ]
 
   const testimonialsData = [
@@ -156,16 +158,20 @@ const Portfolio = ({ isDarkMode, setIsDarkMode }) => {
           "Systems Management and Documentation Oversight.",
           "Software Oversight and Optimization.",
           "Website and Digital Presence Management.",
+          "Network and Security Oversight.",
+          "Data analysis and Reporting.",
         ],
       },
       {
-        title: "SOFTWARE ENGINEER",
+        title: "VICE CTO & SOFTWARE ENGINEER",
         period: "2025 - Present",
         company: "iTech360Systems, Zomba",
         responsibilities: [
           "Database designing, maintenance and optimization",
           "Developing UIs and implement frontend features using modern frameworks.",
           "Collaborating with colleagues to deliver scalable software solutions.",
+          "Implementing and maintaining RESTful APIs and backend services.",
+          "Ensuring code quality through testing, code reviews, and best practices.",
         ],
       },
       {

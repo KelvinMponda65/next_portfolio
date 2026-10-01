@@ -8,7 +8,7 @@ const ResumeSection = ({ resumeData }) => {
           <h2 className="text-4xl font-bold mb-4">Resume</h2>
           <div className="w-12 h-1 bg-blue-500 mb-6" />
           <p className="text-gray-600 dark:text-gray-300 text-lg leading-relaxed">
-            I'm a dedicated Full-Stack Developer and Educator with a passion for building scalable applications and
+            I'm a dedicated Systems Engineer and Educator with a passion for building scalable applications and
             sharing knowledge. With experience in both the classroom and the tech industry, I've contributed to
             real-world projects across web and mobile platforms.
           </p>
