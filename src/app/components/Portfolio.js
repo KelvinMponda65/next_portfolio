@@ -63,15 +63,15 @@ const Portfolio = ({ isDarkMode, setIsDarkMode }) => {
       { label: "Birthday", value: "15 August 2000" },
       { label: "Phone", value: "+265 994 679 974" },
       { label: "City", value: "Zomba, Malawi" },
-      { label: "Email", value: "kelvinmponda47@gmail.com" },
       { label: "Freelance", value: "Available" },
+      { label: "Email", value: "kelvinmponda47@gmail.com" },
     ],
     additionalInfo: "",
   }
 
   const statsData = [
     {
-      number: 30,
+      number: 40,
       label: "Happy Clients",
       sublabel: "Web & mobile solutions delivered",
       icon: "user-check",
@@ -129,7 +129,7 @@ const Portfolio = ({ isDarkMode, setIsDarkMode }) => {
     {
       id: 3,
       name: "Micheal Chikaonda",
-      role: "Full Stack Developer & Network Engineer",
+      role: "Founder and Chief Technology Officer",
       company: "iTech360Systems",
       image: "",
       text: "Working side by side with Kelvin Mponda, I’ve come to rely on his deep technical skills and unwavering commitment. He’s an invaluable teammate in our computer systems work.",
@@ -163,7 +163,7 @@ const Portfolio = ({ isDarkMode, setIsDarkMode }) => {
         ],
       },
       {
-        title: "VICE CTO & SOFTWARE ENGINEER",
+        title: "Senior Engineer",
         period: "2025 - Present",
         company: "iTech360Systems, Zomba",
         responsibilities: [

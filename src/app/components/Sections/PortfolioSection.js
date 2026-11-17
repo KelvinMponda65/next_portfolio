@@ -29,7 +29,7 @@ const PortfolioSection = () => {
         title: "BusYanga",
         category: "Web Design",
         image: "/images/busyanga2.jpg",
-        link: "https://www.busyanga.site/landing",
+        link: "https://busyanga.itech360.site/landing",
       },
       {
         id: 4,
@@ -52,15 +52,7 @@ const PortfolioSection = () => {
         title: "iTech360Systems",
         category: "Web Design",
         image: "/images/iTech.jpg",
-        link: "https://itech360systems.it.com/",
-      },
-
-      {
-        id: 7,
-        title: "BusYanga",
-        category: "Web Design",
-        image: "/placeholder.svg",
-        link: "https://www.busyanga.site/landing",
+        link: "https://www.itech360.site/",
       },
     ],
   }
